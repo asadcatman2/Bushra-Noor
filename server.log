@@ -1,0 +1,6 @@
+
+> fullstack-chatbot@1.0.0 start
+> node server.js
+
+No OPENAI_API_KEY provided. Running in demo mode.
+Server listening on http://localhost:3000
